@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: medical-chatbot
+Version: 0.0.1
+Author: Vikash Kumar
+Author-email: vikashkumar.evolve@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: pypdf
+Requires-Dist: ctransformers
+Requires-Dist: sentence-transformers
+Requires-Dist: pinecone-client
+Requires-Dist: flask
